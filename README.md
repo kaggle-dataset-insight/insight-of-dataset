@@ -3,6 +3,6 @@
 ## 프로젝트 기간
 2022.03.07 - 2022.04.30
 ### 프로젝트 참여자
-[`Cheolj`](), [`Hojeong827`]()
+[`Cheolj`](https://github.com/CheolJ), [`Hojeong827`]()
                                                                                                                                     
 ## REFERENCE
